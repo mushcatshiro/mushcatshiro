@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My interest is in distributed systems and NLP. Currently I am trying to complete MIT6.824 course which I find very engaging and interesting. I am open to any collaboration opportunities and you can contact my by reaching to my email yingjieho@hotmail.com.
 <!--
 **mushcatshiro/mushcatshiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
