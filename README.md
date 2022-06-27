@@ -3,7 +3,7 @@
 My interest is in distributed systems, optimization and NLP. I am  currently working on
 
 - MIT6.824 course 
-- Studying Optimization
+- Optimization courses/studying materials
 
 I am open to any collaboration opportunities and you can contact my by reaching to my email yingjieho@hotmail.com.
 <!--
