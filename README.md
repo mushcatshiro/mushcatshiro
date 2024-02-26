@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-My interest is in distributed systems, optimization and NLP. I am  currently working on
+My interest is in distributed systems, optimization and AI research. I am  currently working on
 
-- MIT6.824 course 
-- Optimization courses/studying materials
+- image/video generation on single GPU (RX4090 24GB)
 
 I am open to any collaboration opportunities and you can contact my by reaching to my email yingjieho@hotmail.com.
 <!--
